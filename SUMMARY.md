@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Sijo Kuruvilla George](README.md)
-* [Connect](best-way-to-reach-me.md)
+* [Connect](best-way-to-reach-me/README.md)
+  * [Office hours](best-way-to-reach-me/office-hours.md)
 * [Writings](writings/README.md)
   * [Address people by names](writings/address-people-by-names.md)
   * [Don't ask for connects](writings/dont-ask-for-connects.md)
