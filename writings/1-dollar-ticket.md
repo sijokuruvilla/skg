@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on April 15, 2014'
----
-
 # I once travelled to Singapore on a 1 dollar ticket
 
 I really like Singapore as a place. It’s a really well thought out city. And one of the things I really love about the place is its amazing library culture. But this piece of writing is not about Singapore. Rather it talks about how I ended up traveling to Singapore and how I ended up getting a taste of really cheap air travel while doing that.

@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on April 3, 2014'
----
-
 # I don't accept mementos
 
 I’ve always enjoyed going for talk sessions. One of the best things about this particular role of mine now with Startup Village is the fact that I keep getting invited for college sessions. There is this practice of giving you something at the end of the session as a token of their appreciation. Well, I’m cool with this practice and appreciate and understand the fact that it a good gesture on the part of the college. But the key idea I wanted to highlight in this particular article is the need to rethink all these practices: both in its relevance and execution. My problem is with the way we end up adopting these practices just because this is how it has always been. My problem is with the reluctance to rethink the value in these practices by understanding and critically questioning why even such a practice existed in the first place.

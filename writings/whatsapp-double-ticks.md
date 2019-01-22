@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on March 7, 2014.'
----
-
 # Whatsapp double ticks
 
 It was during a British High Commission dinner event that I was invited to that I heard the first whatsapp bashing. This was around a year back. And the sentiment was quite strong as well. “I hate whatsapp” was one of the remarks of one of the ladies of the British High Commission team. It was promptly echoed by one of her colleagues standing by her side as well.

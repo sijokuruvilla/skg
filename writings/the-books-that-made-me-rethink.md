@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on March 10, 2013.'
----
-
 # The books that made me Rethink
 
 ![](https://cdn-images-1.medium.com/max/400/1*D2BItArUBeCfG7iE1m07Uw.png)

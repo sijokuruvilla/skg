@@ -1,7 +1,3 @@
----
-description: Open call is essentially our call for help to our v@r’s (volunteers)
----
-
 # v@r open call
 
 These are the areas where we could use help with

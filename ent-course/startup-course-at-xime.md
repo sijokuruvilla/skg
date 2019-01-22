@@ -1,7 +1,3 @@
----
-description: 'This post was originally published on Sep 20, 2017'
----
-
 # Startup course at XIME
 
 I just completed offering my first ever course yesterday. I was invited as a guest faculty for the entrepreneurship course in this trimester. It was a good experience overall. Will look to capture the content & what all I attempted during the course through the blog series titled \#ENT101.

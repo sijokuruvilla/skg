@@ -1,7 +1,3 @@
----
-description: The ones I have read and recommend
----
-
 # Books
 
 1. What got you here wont get you there

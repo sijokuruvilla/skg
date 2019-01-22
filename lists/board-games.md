@@ -1,7 +1,3 @@
----
-description: The ones I have played and recommend
----
-
 # Board Games
 
 1. Sheriff of Nottingham

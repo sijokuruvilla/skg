@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on July 22, 2013.'
----
-
 # An interesting use case of Facebook Graph Search
 
 I chanced upon a new use case of the Facebook graph search tool during one of the informal conversations that I was having with the founder of one of our startups. Vijith of Dolojo is the person that I am referring to here. He had vey recently moved into Startup Village with his new team mates and was introducing me to them. I also came to know that the two smart ones were the products of FISAT and the proteges of the much beloved Prof Mahesh. \(Mahesh is doing a remarkable job of grooming talented young coders and kudos to the college management for having enabled and empowered this passionate and committed individual with the right tools, structures and resources for him to create his magic. They have a very interesting model which I’ll probably talk about in a different post\).

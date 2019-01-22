@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on March 8, 2013'
----
-
 # Women entrepreneurship
 
 I have been asked this question on a more than a couple of occasions by representatives from the media and stakeholders from the startup community: What is the percentage of female entrepreneurs / founders at Startup Village? I distinctly remember [Rasheeda Bhagat](https://twitter.com/rushbl), a senior journalist with the Hindu Business Line, asking me that question after gleefully playing around with the Blackberry phone controlled car at the Blackberry Innovation Zone.

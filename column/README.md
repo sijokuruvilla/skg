@@ -1,7 +1,3 @@
----
-description: I had been penning a column in Mathrubhumi for a while.
----
-
 # Column
 
 കഴിഞ്ഞ വർഷം എനിക്ക് മാതൃഭൂമിയിൽ ഒരു weekly column എഴുതുവാൻ അവസരം ലഭിക്കുകയുണ്ടായി. ഒരു ആറു മാസ കാലയളവിൽ ഇരുപതോളം articles എഴുതുവാൻ സാധിച്ചു. അങ്ങനെ മാതൃഭൂമിക്ക് വേണ്ടി തയ്യാറാക്കിയ articles സമാഹാരമാണ് \#column എന്ന ഈ blog post series

@@ -1,7 +1,3 @@
----
-description: The ones I have read and recommend
----
-
 # List
 
 1 The 4 hour work week Timothy Ferriss .   

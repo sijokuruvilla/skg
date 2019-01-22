@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on March 11, 2013'
----
-
 # It takes a village to transform a nation
 
 ![](../.gitbook/assets/image.png)

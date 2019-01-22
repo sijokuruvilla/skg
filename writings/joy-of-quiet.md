@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on March 6, 2012'
----
-
 # Joy of quiet
 
 It has been sometime since I visited Vagamon. The last trip was immediately after my engineering along with my friends during our all Kerala bike trip. Realisation dawned en route our journey to the place that its been nearly 7 years since that.

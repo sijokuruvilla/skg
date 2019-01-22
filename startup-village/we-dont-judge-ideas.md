@@ -1,7 +1,3 @@
----
-description: 'This article was originally published on March 20, 2014'
----
-
 # We don't judge ideas
 
 I first met Nithin sometime in mid-2012. He was a final year student at RIT Govt engineering college, Kottayam and he was doing an internship stint with one of our startups \(Profoundis\). Arjun of Profoundis introduced me to Nithin and we were having a casual interaction in my room. He was going on and on about the various IEEE related activities that he has been engaged with. It was visible that he was proud to be part of the IEEE and was also equally proud of his accomplishments.That’s Nithin
